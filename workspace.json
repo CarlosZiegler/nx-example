@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "my-boilerplate": "apps/my-boilerplate",
+    "my-boilerplate-e2e": "apps/my-boilerplate-e2e"
+  }
+}
