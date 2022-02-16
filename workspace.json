@@ -2,6 +2,9 @@
   "version": 2,
   "projects": {
     "my-boilerplate": "apps/my-boilerplate",
-    "my-boilerplate-e2e": "apps/my-boilerplate-e2e"
+    "my-boilerplate-e2e": "apps/my-boilerplate-e2e",
+    "my-express": "apps/my-express",
+    "my-npx-package": "libs/my-npx-package",
+    "shared-button": "libs/shared-button"
   }
 }
